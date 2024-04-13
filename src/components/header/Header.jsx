@@ -11,7 +11,7 @@ const Header = () => {
       <header>
         
         <div className="container header__container">
-            {/* <h1>Acronix India</h1> */}
+            
             <div className='title'>
                 <img src= {acro_nameplate}  alt="" />
             </div>

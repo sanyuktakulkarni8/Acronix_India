@@ -65,7 +65,7 @@ return (
               <input type='text' name='name' placeholder='your name' required />
               <input type='text' name='email' placeholder='your email' required />
               <textarea name="message"  rows="7" placeholder=' your message'></textarea>
-              <button type='submit' className='btn btn-primary' >send message</button>
+              <button type='submit' className='btn btn-primary' >Send message</button>
 
             </form>
         

@@ -7,7 +7,8 @@ import Footer from './components/footer/Footer';
 import Contact from './components/contacts/Contact';
 import Team from './components/team/Team';
 import Clients from './components/clients/Clients';
-import ScrollSpy from "react-ui-scrollspy";
+
+import './App.css';
 
 
 
@@ -15,7 +16,7 @@ import ScrollSpy from "react-ui-scrollspy";
 
 const App = () => {
   return (
-    <div>
+    <div className='main_div'>
     
           
           <Header/>

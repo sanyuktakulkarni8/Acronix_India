@@ -92,10 +92,47 @@
 
 /*===============media queries(small devices)============================*/
 @media screen and (max-width : 600px) {
-    .container.testimonials__container{
+    .container.client__container{
         width:var(--container-width-sm);
     }
+    section{
+        padding-left:32px;
+        padding-top:3rem;
+    }
+    .headers1{
+        padding-left: 0%;
+    }
+    .headers2{
+        padding-left: 0%;
+    }
+    
+    .client__container{
+        width:80%;
+    }
+    .client__avatar{
 
     
+        width:5rem;
+       height: 5rem;/*
+       
+       
+       border-radius: 50%;
+      
+         */
+       /* width: 100px;
+       height: 100px; */
+       overflow:hidden;
+       aspect-ratio: 1/1;
+       margin: 0 auto 1rem;
+       
+       position: relative;
+       
+       overflow: hidden;
+       border-radius: 50%;
+      
+       border: 0.2rem solid red;}}
+   
+      
     
-}
+    
+

@@ -169,9 +169,7 @@ img{
     color: var(--color-primary);
     margin-bottom: 1rem;
   }
-  *{
-    box-sizing: none;
-  }
+  
 }
 
 

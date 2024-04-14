@@ -1,7 +1,5 @@
 .footer{
     
- 
-    
     background: rgba(101, 94, 94, 0.104);
     padding: 3rem 0;
     text-align: center;
@@ -84,5 +82,18 @@
 
     .footer__socials{
         margin-bottom: 2.6rem;
+    }
+    
+    .footer{
+        margin-top: 0%;
+        width: 100%;
+        border-top:10px solid rgb(255, 255, 255);
+         padding-left: 3rem; 
+        background-color:white;
+        
+    }
+    .permalinks{
+        display: flex;
+        flex-direction: column;
     }
 }

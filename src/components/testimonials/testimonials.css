@@ -52,11 +52,25 @@
         width:var(--container-width-sm);
     }
 
+    #testimonials >div{
+        width: 100%;
+    }
+
     .client__review{
         
-        width: var(--container-width-sm);
+        width: 100%;
+        font-size:small;
+
         
     
     }
+    .client__name{
+        height: 30px;
+        padding-top: 0%;
+        padding-bottom: 30px;
+        align-items: center;
+        
+    }
+    
     
 }

@@ -95,6 +95,9 @@
     .container.client__container{
         width:var(--container-width-sm);
     }
+    #clients > div{
+        width:100%;
+    }
     section{
         padding-left:32px;
         padding-top:3rem;

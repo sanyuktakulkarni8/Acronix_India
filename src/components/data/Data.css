@@ -71,6 +71,8 @@
 @media screen and (max-width : 600px) {
      #data{
         padding-left: 0rem;
+        padding-right: 1rem;
+        padding-top: 0px;
      }
     .about__card{
         background: var(--color-bg-variant);
@@ -84,11 +86,11 @@
         
     }
     #data > h2 {
-        padding-left: 34px;
+        padding-left: 26px;
     }
 
     #data > h5{
-        padding-left: 34px;
+        padding-left: 26px;
     }
     #data>div{
         padding-left: 10px;
@@ -100,7 +102,10 @@
         .about__container{
         position: relative;
         padding-right: 25px;
-        row-gap: 6px;
+        row-gap: 20px;
+        padding-left: -2rem;
+        margin-left: 0;
+
        } 
        .about__card h5{
         font-size: 0.8rem;
@@ -114,6 +119,7 @@
         display: grid;
         grid-template-columns: repeat(3,2fr);
         gap: 1rem;
+
        
         /* row-gap: 1.5rem; */
     }

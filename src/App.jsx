@@ -16,7 +16,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className='main_div'>
+    <div >
     
           
           <Header/>

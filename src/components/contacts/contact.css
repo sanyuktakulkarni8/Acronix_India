@@ -75,4 +75,9 @@ textarea{
     .container.contact__container{
         width: var(--container-width-sm);
     }
+    #contact{
+        padding-left: 0%;
+        margin-top: 16px;
+        padding-top: 48px;
+    }
 }

@@ -98,8 +98,10 @@
     #clients > div{
         width:100%;
     }
-    section{
-        padding-left:32px;
+    #clients{
+        padding-left:5px;
+        padding-right:5px ;
+        
         padding-top:3rem;
     }
     .headers1{

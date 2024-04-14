@@ -51,6 +51,13 @@
     .container.testimonials__container{
         width:var(--container-width-sm);
     }
+    #testimonials{
+        padding-left: 0%;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-top: 16px;
+        padding-top: 48px;
+    }
 
     #testimonials >div{
         width: 100%;

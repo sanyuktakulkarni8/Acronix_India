@@ -94,7 +94,7 @@ h1,h2{
 @media screen and (max-width : 600px) {
     header{
         padding-top: 0%;
-        padding-left:2rem;
+        padding-left:0px;
         
         height: 50vh;
         width: 100%;

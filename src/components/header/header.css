@@ -86,7 +86,7 @@ h1,h2{
 @media screen and (max-width : 1024px) 
 {
     header{
-        height: 100vh;
+        height: 1080px;
     }
 }
 
@@ -96,7 +96,7 @@ h1,h2{
         padding-top: 0%;
         padding-left:0px;
         
-        height: 50vh;
+        height: 540px;
         width: 100%;
 
     }

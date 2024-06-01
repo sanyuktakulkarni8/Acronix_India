@@ -8,17 +8,17 @@
 <li>  
 Header Section
 <ul>
-<li> Functionality: Acts as the introductory part of the website.<li> 
+<li> Functionality: Acts as the introductory part of the website.</li> 
 <li> Content: Displays the company name and primary information.</li> 
-<ul>
+</ul>
 </li>
 
 <li>
 Floating Navigation Bar
   <ul>
-<li>Functionality: A floating nav bar remains visible as users scroll through the page.</ul>li>
+<li>Functionality: A floating nav bar remains visible as users scroll through the page.</li>
 <li>Content: Contains links to various sections of the website, providing easy navigation and enhancing the user experience.</li>
-    <ul>
+  </ul>
 </li>
 
 <li>
@@ -81,16 +81,16 @@ Footer Section
 <h2>Usage</h2>
 <ol>
 <li>
-Navigation
+Navigation:<br>
 Users can navigate to different sections using the floating nav bar, or by scrolling through the page.</li>
 
 <li>
-Submitting Queries
-The contact section provides a form for visitors to fill out if they have questions or need more information.
+Submitting Queries:<br>
+The contact section provides a form for visitors to fill out if they have questions or need more information.<br>
 Direct links to WhatsApp and email allow visitors to contact the company easily.</li>
 
 <li>
-Exploring Content
+Exploring Content:<br>
 The website offers detailed sections on the company's clients, team, and testimonials, providing a comprehensive view of Acronix India's capabilities and reputation.</li>
 </ol>
 <hr>
